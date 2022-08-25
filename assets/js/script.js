@@ -12,7 +12,7 @@ const navbar = document.querySelector("[data-navbar]");
 
 const elemToggleFunc = function (elem) { elem.classList.toggle("active"); }
 
-menuToggleBtn.addEventListener("click", function () { elemToggleFunc(navbar); });
+menuToggleBtn.addEventListener("click", function () { elemToggleFunc(navbar); }); 
     
 
 /**
@@ -30,5 +30,3 @@ window.addEventListener("scroll", function () {
   }
 
 });
-
-
