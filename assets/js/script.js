@@ -6,7 +6,7 @@
 const menuToggleBtn = document.querySelector("[data-navbar-toggle-btn]");
 const navbar = document.querySelector("[data-navbar]");
 
-/**
+/**  
  * element toggle function
  */
 
