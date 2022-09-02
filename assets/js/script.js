@@ -33,6 +33,3 @@ window.addEventListener("scroll", function () {
 
 
 
-
-
-
